@@ -238,7 +238,7 @@
 
 //Program to demonstrate Statric Variable
 <?php
-  echo "<h3WITHOUT USING STATIC VARIABLE</h3>";
+  echo "<h3>WITHOUT USING STATIC VARIABLE</h3>";
   function display()
   {
     $num = 10;
